@@ -14,7 +14,7 @@ self.addEventListener('push', function(e) {
                 icon: 'images/checkmark.png'
             },
             {
-                ction: 'close', 
+                action: 'close', 
                 title: 'Close',
                 icon: 'images/xmark.png'
             }
